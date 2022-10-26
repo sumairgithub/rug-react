@@ -1,0 +1,6 @@
+@include media-breakpoint-up(lg) {
+	.container-lg {
+		max-width: 1160px;
+		margin-left: 0 !important;
+	}
+}
